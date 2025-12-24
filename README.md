@@ -9,14 +9,13 @@ An interactive Power BI dashboard designed to monitor, analyze, and compare pati
 The Patient Wait List Analytics Dashboard provides a comprehensive view of patient wait list volumes and trends over time. It enables healthcare analysts and decision-makers to track changes in waiting lists by specialty, case type, age profile, and time band, while comparing current performance against previous periods to support operational planning and resource allocation.
 
 **3. Tech Stack**
-
 The dashboard was built using the following tools and technologies:
 
-• Power BI Desktop – Primary data visualization and reporting platform
-• Power Query – Data ingestion, cleansing, and transformation of patient records
-• DAX (Data Analysis Expressions) – Used for time intelligence, comparisons (PY vs current), KPIs, averages/medians, and dynamic calculations
-• Data Modeling – Star-schema style relationships between fact tables (wait list data) and dimension tables (specialty, specialty group, case type, age profile, date)
-• File Format – .pbix for development and .png for dashboard previews
+• 📊 Power BI Desktop – Primary data visualization and reporting platform
+• 📂 Power Query – Data ingestion, cleansing, and transformation of patient records
+• 🧠 DAX (Data Analysis Expressions) – Used for time intelligence, comparisons (PY vs current), KPIs, averages/medians, and dynamic calculations
+• 🧩 Data Modeling – Star-schema style relationships between fact tables (wait list data) and dimension tables (specialty, specialty group, case type, age profile, date)
+• 📁 File Format – .pbix for development and .png for dashboard previews
 
 **4. Data Source**
 
@@ -120,7 +119,7 @@ Age profile and waiting time band insights help assess equity of access and pati
 **Executive Reporting:**
 The dashboard provides a concise, visually compelling summary suitable for leadership and stakeholder reviews.
 
-6. Screenshots / Demos
+**6. Screenshots / Demos**
 
 <img width="665" height="377" alt="image" src="https://github.com/user-attachments/assets/1fecef27-3979-4c80-8858-0cc49b1a6782" />
 
