@@ -1,4 +1,3 @@
-<img width="665" height="377" alt="image" src="https://github.com/user-attachments/assets/883d494d-ddf9-4c3d-9247-a55eba938586" /># POWER-BI-Patient-Waiting-List
 
 **1. Project Title / Headline**
 
